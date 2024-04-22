@@ -27,7 +27,7 @@
     "karma-junit-reporter": "0.2.2",
     "load-grunt-tasks": "2.0.0",
     "mocha": "2.1.0",
-    "mongoose": "3.8.23",
+    "mongoose": "5.13.20",
     "piping": "0.1.8",
     "shelljs": "0.2.6",
     "should": "4.6.3",
